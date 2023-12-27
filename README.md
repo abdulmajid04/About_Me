@@ -4,7 +4,7 @@ I am an undergraduate with a bachelor's degree in development economics. having 
 
 # About Me
 - 🌱 I’m currently learning About Data Analyst
-- 🎓 Undergraduation University Muhammadiyah Surakarta
+- 🎓 Fresh Graduate University Muhammadiyah Surakarta
 - 📍  Indonesia, Central Java
 
 # Connect With Me 😎
