@@ -1,6 +1,6 @@
 # Hi, I’m abdulmajid 👋😄
 
-I am an undergraduate with a bachelor's degree in development economics. having a disciplined, responsible, and diligent work ethic is always my priority in completing every job. I am highly motivated in analyzing economic development, calculating budgets, and devising strategies to reduce business risks. I am ready to learn more and utilize my skills for a career in Data Analyst and Business Intelligence.
+I am an Fresh graduate with a bachelor's degree in development economics. having a disciplined, responsible, and diligent work ethic is always my priority in completing every job. I am highly motivated in analyzing economic development, calculating budgets, and devising strategies to reduce business risks. I am ready to learn more and utilize my skills for a career in Data Analyst and Business Intelligence.
 
 # About Me
 - 🌱 I’m currently learning About Data Analyst
